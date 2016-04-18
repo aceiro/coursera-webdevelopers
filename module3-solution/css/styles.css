@@ -1,5 +1,6 @@
 *{
 	font-size: 16px;
+	font-family: 'Handlee', cursive;
 }
 
 
@@ -39,3 +40,32 @@ div.navbar-header a {
     border-radius: 0;
     border-width: 2px;
  }
+
+ .navbar-default .navbar-nav>li>a {
+    color: #000;
+    font-weight: bold;
+}
+
+.navbar-nav>li>a {
+	height: 0px;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #000000;
+    border-width: 2px;
+}
+
+hr{
+	border-width: 2px;
+	border-color: 2px solid #000;
+}
+
+.navbar-default .navbar-toggle {
+	border-width: 2px;
+    border-color: 2px solid #000;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	 border-width: 2px;
+    background-color: #000;
+}
