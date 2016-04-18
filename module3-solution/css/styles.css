@@ -46,10 +46,6 @@ div.navbar-header a {
     font-weight: bold;
 }
 
-.navbar-nav>li>a {
-	height: 0px;
-}
-
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #000000;
     border-width: 2px;
