@@ -1,0 +1,41 @@
+*{
+	font-size: 16px;
+}
+
+
+div.navbar-header a {
+	font-weight: bold;
+	font-size: 2.5em;
+}
+
+.navbar-default .navbar-brand {
+    color: #000;
+}
+
+.nav .navbar-nav p {
+	font-size: 1.0em;
+	
+}
+
+#main-heading p{
+	font-size: 2.0em;
+	font-weight: bold;
+}
+
+#mini-heading p{
+	font-weight: bold;	
+}
+
+#row-content{
+	background-color: #999999;
+	height: 1000px;
+	overflow: auto;
+	padding: 15px;
+}
+
+.navbar-default {
+    background-color: #999999;
+    border-color: #000;
+    border-radius: 0;
+    border-width: 2px;
+ }
